@@ -1,0 +1,8 @@
+USER
+- User will be able to register (Email Address will be unique) 
+- User will be able to view available books.
+- Users will be able to read the online .pdf based books.
+
+ADMIN
+- Admin will be able to view, disable a user from the system
+- Admin will be able to upload or delete .pdf files from the library
